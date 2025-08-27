@@ -2,7 +2,7 @@
 
 Key Features:
 
-1) Random dice rolling: Uses the modern C++ <random> library for proper random number generation
+1) Random dice rolling: Uses the modern python for proper random number generation
 2) Variable number of dice: Users can specify how many dice to roll (1-10)
 3) Roll tracking: Keeps count of total rolls during the session
 4) User-friendly interface: Clear prompts and formatted output
